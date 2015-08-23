@@ -8,15 +8,21 @@ namespace Modul02
 		{
 
 			//Дефиниране на променливи
-
+			int a = 0, b = 0;
+			int sum = 0;
 
 			//Събиране на числа
-
+			a = 7;
+			b = 6;
+			sum = a + b;
 
 			//Писане в конзола
+			Console.Write (a);
+			Console.Write (" плюс ");
+			Console.Write (b);
+			Console.Write ( " равно на ");
+			Console.WriteLine (sum);
 
-
-			//Направих допълнителен коментар, за да приеме промените
-
+		}
 	}
 }
