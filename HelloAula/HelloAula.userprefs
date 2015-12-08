@@ -1,9 +1,12 @@
 ﻿<Properties StartupItem="HelloAula\HelloAula.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloAula\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloAula\Properties\AssemblyInfo.cs">
     <Files>
-      <File FileName="HelloAula\HelloIvanBotev.cs" Line="13" Column="52" />
-      <File FileName="HelloAula\Program.cs" Line="14" Column="1" />
+      <File FileName="..\Modul02\Modul02.sln" Line="1" Column="1" />
+      <File FileName="..\README.md" Line="1" Column="1" />
+      <File FileName="HelloAula\HelloIvanBotev.cs" Line="1" Column="1" />
+      <File FileName="HelloAula\Program.cs" Line="1" Column="1" />
+      <File FileName="HelloAula\Properties\AssemblyInfo.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

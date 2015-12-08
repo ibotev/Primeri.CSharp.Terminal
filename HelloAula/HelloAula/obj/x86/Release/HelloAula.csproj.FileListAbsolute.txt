@@ -2,3 +2,7 @@ E:\My Hobby\C#\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\Hell
 E:\My Hobby\C#\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.pdb
 E:\My Hobby\C#\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\x86\Release\HelloAula.exe
 E:\My Hobby\C#\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\x86\Release\HelloAula.pdb
+F:\My Hobby\C#\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.exe
+F:\My Hobby\C#\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.pdb
+F:\My Hobby\C#\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\x86\Release\HelloAula.exe
+F:\My Hobby\C#\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\x86\Release\HelloAula.pdb
