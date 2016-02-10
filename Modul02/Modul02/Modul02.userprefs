@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\aula\TableProject\Program.cs">
     <Files>
-      <File FileName="..\..\..\..\..\ReadFromCommandLine\Program.cs" Line="20" Column="9" />
-      <File FileName="..\..\..\..\..\aula\TableProject\Program.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\ReadFromCommandLine\Program.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\aula\TableProject\Program.cs" Line="22" Column="63" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
